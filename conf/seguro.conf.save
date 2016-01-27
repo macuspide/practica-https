@@ -1,0 +1,3 @@
+<Directory /var/www/html/seguro>
+	DirectoryIndex index.html
+	Require all granted</Directory>
